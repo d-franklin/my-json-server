@@ -1,17 +1,11 @@
 {
-  "customers": [
-    {
-      "id": 1,
-      "customerName": "Birdsboro Borough",
-      "customerId": "13CL5HV",
-      "primaryContact": {
-        "name": "Henry Wallace Jr",
-        "phone": "815-756-5088",
-        "email": "henry@companyinc.com"
-      },
-      "bookValue": "$5,000",
-      "industry": "Hospitality",
-      "salesReps": ["Doug Kelly", "Rick Peepers"]
-    }
-  ]
+	"customers": [{
+		"id": 1,
+		"email": "test@test.com",
+		"username": "test"
+	},{
+		"id": 2,
+		"email": "test2@test.com",
+		"username": "test2"
+	}]
 }
